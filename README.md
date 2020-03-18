@@ -1,0 +1,2 @@
+# Verilog_uart_fifo_smg
+串口接收任意字符，以ASIIC码形式显示在数码管上
